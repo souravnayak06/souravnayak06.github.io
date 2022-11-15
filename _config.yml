@@ -9,7 +9,7 @@ name: Sourav Nayak
 description: Data Scientist Trainee
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/account
+avatar: https://avatars.githubusercontent.com/u/117347539?v=4
 
 #
 # Flags below are optional
@@ -22,7 +22,7 @@ footer-links:
   facebook:
   flickr:
   github: barryclark/jekyll-now
-  instagram:
+  instagram: https://www.instagram.com/_souravv._/
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
