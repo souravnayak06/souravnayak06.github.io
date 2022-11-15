@@ -17,4 +17,3 @@ In order to study the topography  we use a software called digital surf mountain
 
 This is my first project
 created using jekyll##
-
