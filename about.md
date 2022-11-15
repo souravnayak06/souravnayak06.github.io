@@ -11,4 +11,4 @@ Hello I am Sourav Nayak!
 
 ### Contact me
 
-[email@domain.com](mailto:nayaksourav108@gmail.com)
+[nayaksourav108@gmail.com](mailto:nayaksourav108@gmail.com)
