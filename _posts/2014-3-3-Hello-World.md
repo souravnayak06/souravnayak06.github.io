@@ -7,6 +7,7 @@ published: true
 ### New projects are created by me
 [google](www.google.com)
 ![]({{site.baseurl}}/_posts/WhatsApp%20Image%202022-10-12%20at%202.54.55%20PM.jpeg)
+[google](https://www.google.com/)
 
 
 
