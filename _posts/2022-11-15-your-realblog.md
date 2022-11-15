@@ -3,7 +3,9 @@ published: true
 ---
 ## This is my first real blog
 ****This is new information about my projects
-__Italic content
+_Italic content_
+
 -unordered list
+
 1.ordered list
 >We love
